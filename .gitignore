@@ -1,0 +1,7 @@
+# Files
+app.log
+
+# Directories
+__pycache__/
+data/
+.vscode/
